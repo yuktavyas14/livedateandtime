@@ -8,7 +8,7 @@
     margin: 240px auto ;
     padding:50px;
     box-sizing: border-box;
-    background:url("/assets/background.jpg") ;
+    background:url("../assets/background.jpg") ;
     border-radius: 5px;
     text-align:center; 
 
